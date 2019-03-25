@@ -1,0 +1,64 @@
+"Integration accuracy"                                                                  1.0E-8
+"Cohort cycle time interval"                                                            1.0
+"Tolerance value, determining identity with zero"                                       1.0E-5
+
+"Maximum integration time"                                                          36500.0
+"Output time interval"                                                                  1.0
+"Complete state output interval, 0 for none"                                            0.0
+
+"Minimum allowable number of individuals in cohort"                                     0.0
+
+"Relative tolerances for i-state variable #0"                                           0.0
+"                        i-state variable #1"                                           0.0
+"                        i-state variable #2"                                           0.0
+"Absolute tolerances for i-state variable #0"                                           0.0
+"                        i-state variable #1"                                           0.0
+"                        i-state variable #2"                                           0.0
+
+
+"[ 0] Gestation period                                                    Tg"		365
+"[ 1] Lactation period                                                    Tl"		1223
+"[ 2] Age at independent foraging                                         Tf"		365
+"[ 3] Age at 100% foraging capacity                                       Tr"		500
+
+"[ 4] Length at birth                                                     Lb"		177
+"[ 5] Asymptotic length                                   		 		Linf"		450
+"[ 6] Laird/Gompertz growth rate                                           K"		0.00045
+
+"[ 7] Weight-length scalar                                            OmegaS"		8.5e-05
+"[ 8] Weight-length exponent                                          OmegaE"		2.6
+"[ 9] Relative maintenance reserves                                   OmegaM"		0.2
+"[10] Relative maintenance foetus                                     OmegaC"		1
+
+"[11] Target reserve-weight ratio                                        Rho"		0.3
+"[12] Starvation reserve-weight ratio                                   RhoS"		0.15
+
+"[13] Steepness reserves-assimilation response                          EtaF"		15
+"[14] Shape parameter of resource assimilation-age response			   Gamma"		2
+
+"[15] Energy provisioning ratio through lactation scalar                PhiM"		2.7
+
+"[16] Non-linearity in mother reserves-lactation rate                    XiM"		-2
+"[17] Non-linearity in resource assimilation - calve age rate            XiF"		-5
+"[18] Non-linearity in milk assimilation-calve age rate                  XiC"		0.9
+
+"[19] Field metabolic rate scalar                                     SigmaM"		0.75
+"[20] Structural mass growth costs                                    SigmaG"		30
+"[21] Reserve-milk conversion ratio                                   SigmaL"		0.86
+
+"[22] Mortality parameter                                          	  Alpha1"		0.000401
+"[23] Mortality parameter                                          	   Beta1"		0.000582
+"[24] Mortality parameter                                          	  Alpha2"		6.04e-06
+"[25] Mortality parameter                                          	   Beta2"		0.000301
+
+"[26] Starvation mortality scalar                                        MuS"		0.2
+
+"[27] Anabolic conversion efficiency                                 EpsPlus"		55
+"[28] Catabolic conversion efficiency                                 EpsMin"		35
+
+"[29] Constant (d..i) or maximum (d.d.) resource density            RESOURCE"		3.0
+"[30] Amplitude of annual resource fluctuations            RESOURCEAMPLITUDE"		0
+"[31] Annual start of disturbance (273.75 Winter / 91.25 for Summer) DISTURBANCESTART"		-1
+"[32] Duration of annual disturbance					   DISTURBANCEPERIOD"		-1
+
+"[33] Average waiting time for female to get pregnant		  PREGNANCYDELAY"		445
