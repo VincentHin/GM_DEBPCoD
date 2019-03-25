@@ -1,6 +1,6 @@
 GM_DEBPCoD
 ==========
-A life history model for Globicephala melas (pilot whales) based on Dynamic Energy Budgets
+A life history model for _Globicephala melas_ (pilot whales) based on Dynamic Energy Budgets
 ----------
 
 Code from: 
@@ -8,8 +8,7 @@ Hin, V, Harwood, J. & De Roos, A.M.
 _Bio-energetic modeling of medium-sized cetaceans shows high sensitivity to disturbance in seasons of low resource supply_
 Ecological Applications 2019
 
-
-Execution of the code requires the installation of EBTtool software package See: [https://staff.fnwi.uva.nl/a.m.deroos/EBT/Software/index.html] for info & installation
+Execution of the code requires the installation of EBTtool software package See: (https://staff.fnwi.uva.nl/a.m.deroos/EBT/Software/index.html) for info & installation
 
 Code is released under GNU General Public License v3.0. A copy of the license is attached.
 
