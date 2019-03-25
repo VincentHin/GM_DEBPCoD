@@ -33,7 +33,7 @@ How to use
   4. `single_R0.dat` reports life history statistics from the total lifetime of the female as specified by the lines 505-510 in `GM_DEBPCoD.c`
   5. `single.csb` normally hold the population state-output, but is empty since no population state output was recorded for this particular integration
   
-* Run the R-file GM_DEBPCoD.R to import and plot the model output
-* Source Figure_1.R to create the figure 1 from the manuscript
+* Run the R-file `GM_DEBPCoD.R` to import and plot the model output
+* Source `Figure_1.R` to create the figure 1 from the manuscript
 * Figures 2 & 3 requires changing the appropriate parameters in the parameter definition file (`single.cvf`)
 * run `make allclean` to clean all model output files and c object files and executables
